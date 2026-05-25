@@ -10,7 +10,7 @@
 
 ### 🚀 Stack
 
-**Backend:** NestJS · .NET · Go · Java
+**Backend:** NestJS · .NET 
 **Frontend:** Next.js · React · Vue
 **Infra:** AWS EKS · Terraform · ArgoCD · GitHub Actions
 **Data:** PostgreSQL · MongoDB · Redis · RabbitMQ
