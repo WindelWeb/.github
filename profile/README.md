@@ -4,9 +4,6 @@
 
 ### Sistemas de gestão empresarial — ERP, fiscal, vendas, financeiro
 
-[![Website](https://img.shields.io/badge/windel.com.br-005CB9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.windel.com.br)
-[![Florianópolis](https://img.shields.io/badge/Florianópolis%2FSC-green?style=for-the-badge)](https://www.windel.com.br)
-
 </div>
 
 ---
